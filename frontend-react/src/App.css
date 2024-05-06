@@ -1,0 +1,11 @@
+@media screen and (min-width: 992px) {
+
+}
+* {
+  text-transform: capitalize !important; 
+}
+
+thead th {
+  background: transparent !important;
+  color: white !important;
+}
